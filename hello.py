@@ -1,6 +1,8 @@
 import pyowm
 import getpass
 
+#This is my first project on Python
+
 owm = pyowm.OWM("3b70be4a67173929ceb874ebfcfd5497",language='ua')
 
 try:
